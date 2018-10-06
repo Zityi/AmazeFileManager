@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-
+Translator: Zityi's Translator Team <zityisoft@gmail.com>
 <!--
-    Copyright (C) 2014-2017 Arpit Khurana <arpitkh96@gmail.com>, Vishal Nehra <vishalmeham2@gmail.com>
+    Copyright (C) 2014-2018 Arpit Khurana <arpitkh96@gmail.com>, Vishal Nehra <vishalmeham2@gmail.com>
 
     This file is part of Amaze File Manager.
 
@@ -19,8 +19,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
     -->
 
-<resources xmlns:tools="http://schemas.android.com/tools"
-    tools:ignore="MissingTranslation">
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string name="app_name">Amaze File Manager</string>
     <string name="drawer_open">Navigációs fiók megnyitása</string>
     <string name="drawer_close">Navigációs fiók bezárása</string>
@@ -641,6 +640,6 @@
     <string name="transfer_rate">Átviteli sebesség</string>
     <string name="unknown">ismeretlen</string>
     <string name="multiple_invalid_archive_entries">Néhány fájlt az archívumban nem lehet kibontani; lehet, hogy az archívum sérült vagy rosszindulatú forrásból származik.</string>
-    <string name="saf_otg_explanation">Biztonsági okokból most az Android fájlrendszerébe kell lépnie. Kérjük, válassza ki az USB eszközt a bal oldali listából.</string>
+    <string name="saf_otg_explanation">Biztonsági okokból most be kell lépnie az Android fájlrendszerébe. Kérjük, válassza ki az USB eszközt a bal oldali listából.</string>
 </resources>
 
